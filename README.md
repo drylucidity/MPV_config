@@ -1,0 +1,1 @@
+# MPV media player configuration

@@ -1,0 +1,1 @@
+/home/guest/.config/mpv/scripts/mpv-stats/stats.lua
